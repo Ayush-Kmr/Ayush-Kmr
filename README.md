@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋.I'm Ayush Kumar</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 # 💫 About Me:
-🔭 I'M currently Working on some of My Web Projects<br>🌱 I'M currently Learning About ReactJS and PHP<br>💬 Ask me Anything About Web Development
+🔭 I'M currently Working on some of My Web Projects<br>🌱 I'M currently Learning About ReactJS and NodeJS<br>💬 Ask me Anything About Web Development
 
 
 ## 🌐 Socials:
