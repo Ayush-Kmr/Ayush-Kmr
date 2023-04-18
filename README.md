@@ -15,6 +15,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ayush-Kmr&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Kmr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ayush-kmr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=@Ayu_kmr)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
