@@ -27,6 +27,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ayush-kmr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+[![](https://visitcount.itsvg.in/api?id=Ayush-Kmr&icon=5&color=8)](https://visitcount.itsvg.in)
+
 <!-- ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=@Ayu_kmr)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
 
