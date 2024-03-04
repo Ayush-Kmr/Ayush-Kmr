@@ -1,7 +1,7 @@
 <img align="left" height="55" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="max-width: 100%;">
 <h1 align="center">Hi👋.I'm Ayush Kumar</h1>
 <h3 align="center">A passionate Software Engineer</h3>
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+
 🔭 I'M currently Working on some of My Web Projects<br>🌱 I'M currently Learning About ReactJS and NodeJS<br>💬 Ask me Anything About Web Development
 
 
