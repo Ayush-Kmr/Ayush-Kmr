@@ -37,4 +37,4 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-![snake gif](https://github.com/Ayush-Kmr/Ayush-Kmr/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Ayush-Kmr/Ayush-Kmr/blob/output/github-contribution-grid-snake.svg)
