@@ -2,8 +2,8 @@
 <h1 align="center">Hi👋.I'm Ayush Kumar</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC"> -->
-<div style="width:70%;height:0;padding-bottom:75%;position:relative;">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70%" style="position:absolute">
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" style="position:absolute">
 </div>
 <p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC"></a></p>
 🔭 I'M currently Working on some of My Web Projects<br>🌱 I'M currently Learning About ReactJS and NodeJS<br>💬 Ask me Anything About Web Development
