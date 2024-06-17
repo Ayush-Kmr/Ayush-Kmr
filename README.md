@@ -1,13 +1,7 @@
 <img align="left" height="55" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="max-width: 100%;">
 <h1 align="center">Hi👋.I'm Ayush Kumar</h1>
 <h3 align="center">A passionate Software Engineer</h3>
-<!-- <div style="text-align:center;">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width:100%; height:auto;">
-</div> -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="animated" />
-</p>
-
+<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="animated" /> </p>
 🔭 I'M currently Working on some of My Web Projects<br>🌱 I'M currently Learning About ReactJS and NodeJS<br>💬 Ask me Anything About Web Development
 
 
@@ -33,8 +27,8 @@
 
 [![](https://visitcount.itsvg.in/api?id=Ayush-Kmr&icon=5&color=8)](https://visitcount.itsvg.in)
 
-<!-- ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@Ayu_kmr)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=@Ayu_kmr)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
