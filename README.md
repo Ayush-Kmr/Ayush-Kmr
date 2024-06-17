@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Engineer</h3>
 <!-- <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="animated" /> </p> -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="animated" style="border-radius: 10px;" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="animated" style="border-radius: 20%;" />
 </p>
 
 🔭 I'M currently Working on some of My Web Projects<br>🌱 I'M currently Learning About ReactJS and NodeJS<br>💬 Ask me Anything About Web Development
