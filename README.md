@@ -1,7 +1,11 @@
 <img align="left" height="55" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="max-width: 100%;">
 <h1 align="center">Hi👋.I'm Ayush Kumar</h1>
 <h3 align="center">A passionate Software Engineer</h3>
-<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="animated" /> </p>
+<!-- <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="animated" /> </p> -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="animated" style="border-radius: 10px;" />
+</p>
+
 🔭 I'M currently Working on some of My Web Projects<br>🌱 I'M currently Learning About ReactJS and NodeJS<br>💬 Ask me Anything About Web Development
 
 
