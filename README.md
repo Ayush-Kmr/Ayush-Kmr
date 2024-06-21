@@ -36,5 +36,3 @@
 
 
 
-## Snake Eating My Contribution
-![snake gif](https://github.com/Ayush-Kmr/Ayush-Kmr/blob/output/github-contribution-grid-snake.svg)
