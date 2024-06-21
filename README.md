@@ -2,7 +2,7 @@
 <h1 align="center">Hi👋.I'm Ayush Kumar</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="animated" /> </p>
-🔭 I'M currently Working on some of My Web Projects.<br>🌱 I'M currently Learning About SpringBoot and Payright<br>💬 Ask me Anything About Development and Testing.
+🔭 I'M currently Working on some of My Web Projects.<br>🌱 I'M currently Learning About SpringBoot and Payrights.<br>💬 Ask me Anything About Development and Testing.
 
 
 ## 🌐 Socials:
