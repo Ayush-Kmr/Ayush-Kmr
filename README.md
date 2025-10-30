@@ -1,38 +1,83 @@
 <img align="left" height=55 src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="max-width: 100%;">
-<h1 align="center">Hi👋.I'm Ayush Kumar</h1>
-<h3 align="center">A passionate Software Engineer</h3>
-<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="animated" /> </p>
-🔭 I'M currently Working on some of My Web Projects.<br>🌱 I'M currently Learning About SpringBoot and sharpening DSA skill.<br>💬 Ask me Anything About Development and Testing.
 
+<h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
+<h3 align="center">🚀 Software Engineer @ Cashfree Payments | Backend & DSA Enthusiast | Java • Spring Boot • ReactJS</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayu-kmr/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayu.kmr)
-[![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ayu_kmr) 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-plastic&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-plastic&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-plastic&logo=java&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-plastic&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-plastic&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-plastic&logo=javascript&logoColor=%23F7DF1E)
-![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-plastic&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=Ayush-Kmr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ayush-Kmr&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Kmr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ayush-kmr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
 
-[![](https://visitcount.itsvg.in/api?id=Ayush-Kmr&icon=5&color=8)](https://visitcount.itsvg.in)
+### 🧠 About Me  
+🔭 Currently working on **Full Stack Projects (ReactJS + Spring Boot)**  
+🌱 Learning **Microservices Architecture** and **Advanced System Design**  
+💬 Ask me about **Java, Spring Boot, ReactJS, or DSA**  
+🎯 Focused on improving **problem-solving and backend optimization**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayu-kmr/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/ayu.kmr"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
+  <a href="https://x.com/Ayu_kmr"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"/></a>
+</p>
 
+---
 
+## 💻 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,cpp,react,js,html,css,git,github,mysql,docker,postman" />
+</p>
 
+---
 
+## 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-Kmr&theme=dark&hide_border=false" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Kmr&theme=dark&hide_border=false&layout=compact" height="165"/>
+</p>
 
+---
 
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayush-Kmr&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+## 📊 Contribution Graph  
+[![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayush-Kmr&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🧩 LeetCode Stats  
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ayu_kmr?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+![snake gif](https://github.com/ayush-kmr/ayush-kmr/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## ✍️ Random Dev Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+</p>
+
+---
+
+## 👀 Visitor Count  
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Ayush-Kmr&icon=5&color=8" />
+</p>
+
+---
+
+💬 _“Code. Debug. Repeat.”_  
+⭐️ If you like my work, don’t forget to star my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/ayu-kmr/)!  
