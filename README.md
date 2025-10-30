@@ -4,7 +4,7 @@
 <h3 align="center">🚀 Software Engineer @ Cashfree Payments | Backend & DSA Enthusiast | Java • Spring Boot • ReactJS</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400" alt="Developer Animation" />
+  <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="400" alt="Coding Animation" />
 </p>
 
 ---
