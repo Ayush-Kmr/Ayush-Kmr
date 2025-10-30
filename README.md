@@ -4,6 +4,7 @@
 <h3 align="center">🚀 Software Engineer @ Cashfree Payments | Backend & DSA Enthusiast | Java • Spring Boot • ReactJS</h3>
 
 <p align="center">
+  <img src="https://i.gifer.com/7VE.gif" width="150" alt="Matrix Coding Animation" />
   <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="150" alt="Coding Animation" />
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="150" alt="Coding Pixel Animation" />
   <img src="https://i.gifer.com/7VE.gif" width="150" alt="Matrix Coding Animation" />
