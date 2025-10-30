@@ -75,12 +75,5 @@
 
 ---
 
-## 👀 Visitor Count  
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Ayush-Kmr&icon=5&color=8" />
-</p>
-
----
-
 💬 _“Code. Debug. Repeat.”_  
 ⭐️ If you like my work, don’t forget to star my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/ayu-kmr/)!  
