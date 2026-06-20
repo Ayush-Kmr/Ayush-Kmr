@@ -1,7 +1,7 @@
 <img align="left" height=55 src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="max-width: 100%;">
 
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
-<h3 align="center">🚀 Software Engineer @ Cashfree Payments | Backend & DSA  | Java • Spring Boot • ReactJS</h3>
+<h3 align="center">🚀 Solution Engineer @ Testmu AI | Backend & DSA  | Java • Spring Boot • ReactJS</h3>
 
 <p align="center">
   <img src="https://i.gifer.com/7VE.gif" width="120" alt="Matrix Coding Animation" />
